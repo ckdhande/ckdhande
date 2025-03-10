@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋I'm Chinmayee Dhande
+🎓 Electronics & Telecommunication Engineering Student
+💡 Passionate about IoT, Machine Learning, and Data Science
+📊 Skilled in Python, SQL, Embedded Systems, Deep Learning
 
-<!--
-**ckdhande/ckdhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Projects
+🔹 Fruit Disease Detection using Deep Learning & Raspberry Pi
+🔹 Electronic Safe using Arduino
+🔹 Greenhouse Monitoring System using STM32
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me
+🔹LinkedIn: https://www.linkedin.com/in/chinmayeed/
+🔹Email ID: ckdhande@gmail.com
+🔹GitHub: https://github.com/ckdhande
